@@ -40,8 +40,7 @@ Simula una experiencia básica de compra online con:
 
 ### Sitio Desplegado
 
-(Si usas Netlify u otra plataforma de despliegue, coloca el enlace aquí)  
-`https://zapas-x.netlify.app` *(Ejemplo, reemplazar con el real si lo subes)*
+TavoRAW.github.io
 
 ### Cómo clonar y ejecutar localmente
 
@@ -50,6 +49,6 @@ Simula una experiencia básica de compra online con:
 3. Abre `index.html` con cualquier navegador moderno (Chrome, Firefox, Edge).
 
 ```bash
-git clone https://github.com/tuusuario/zapasx.git
+git clone https://github.com/TavoRAW.github.io
 cd zapasx
 start index.html
